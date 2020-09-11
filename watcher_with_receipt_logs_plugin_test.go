@@ -3,8 +3,8 @@ package ethereum_watcher
 import (
 	"context"
 	"fmt"
-	"github.com/HydroProtocol/ethereum-watcher/plugin"
-	"github.com/HydroProtocol/ethereum-watcher/structs"
+	"github.com/Purnachndar/ethereum-watcher/plugin"
+	"github.com/Purnachndar/ethereum-watcher/structs"
 	"github.com/sirupsen/logrus"
 	"testing"
 )

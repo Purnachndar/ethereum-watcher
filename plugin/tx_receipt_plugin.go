@@ -1,8 +1,8 @@
 package plugin
 
 import (
-	"github.com/HydroProtocol/ethereum-watcher/blockchain"
-	"github.com/HydroProtocol/ethereum-watcher/structs"
+	"github.com/Purnachndar/ethereum-watcher/blockchain"
+	"github.com/Purnachndar/ethereum-watcher/structs"
 	"github.com/shopspring/decimal"
 	"math/big"
 )

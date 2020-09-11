@@ -3,9 +3,9 @@ package ethereum_watcher
 import (
 	"context"
 	"fmt"
-	"github.com/HydroProtocol/ethereum-watcher/blockchain"
-	"github.com/HydroProtocol/ethereum-watcher/plugin"
-	"github.com/HydroProtocol/ethereum-watcher/structs"
+	"github.com/Purnachndar/ethereum-watcher/blockchain"
+	"github.com/Purnachndar/ethereum-watcher/plugin"
+	"github.com/Purnachndar/ethereum-watcher/structs"
 	"github.com/labstack/gommon/log"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"

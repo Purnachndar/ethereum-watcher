@@ -2,7 +2,7 @@ package rpc
 
 import (
 	"errors"
-	"github.com/HydroProtocol/ethereum-watcher/blockchain"
+	"github.com/Purnachndar/ethereum-watcher/blockchain"
 	"github.com/onrik/ethrpc"
 	"github.com/sirupsen/logrus"
 	"strconv"
